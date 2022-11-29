@@ -109,7 +109,7 @@ Note: Kindly change the arguments to the following flag:
   $ ./network.sh createChannel
   ```
 - Deploy the chaincode as described in previous sections
-- Create a directory `A4_PartC` inside `test-network` and create an empty `main.js` file
+- Create a directory `A4_PartC` inside `test-network` and create an empty `partc.js` file
 - Install `fabric-ca-client`, `fabric-network` and `prompt-sync` using `npm` under `testapp` directory as
 
   ```bash
