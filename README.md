@@ -84,11 +84,9 @@ Note: Kindly change the arguments to the following flag:
 - `-c`: function name (with the arguments) to invoke
 
 ## Writing smart contracts
-- Create a directory as `fabric/fabric-samples/cs61065-chaincode`
+- Create a directory as `fabric/fabric-samples/test-network/A4_PartA`
+- Create a directory as `fabric/fabric-samples/test-network/A4_PartB`
 
-- Create sub-directory:
-Part A: student-register
-Part B: bst
 - Build the file as:
 
   ```bash
@@ -111,7 +109,7 @@ Part B: bst
   $ ./network.sh createChannel
   ```
 - Deploy the chaincode as described in previous sections
-- Create a directory `cs61065-application` inside `test-network` and create an empty `main.js` file
+- Create a directory `A4_PartC` inside `test-network` and create an empty `main.js` file
 - Install `fabric-ca-client`, `fabric-network` and `prompt-sync` using `npm` under `testapp` directory as
 
   ```bash
