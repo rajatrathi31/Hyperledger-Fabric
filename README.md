@@ -1,7 +1,7 @@
 
 # Hyperledger-Fabric
 
-Guide for CS61065 Assignment 4
+CS61065 Assignment 4
 
 
 ## Installing
