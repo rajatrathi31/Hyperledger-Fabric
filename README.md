@@ -3,6 +3,10 @@
 
 CS61065 Assignment 4
 
+## If you are unable to open the pdfs then here are the links for the same:
+**[fabric assignment CS61065 2022.pdf](https://drive.google.com/file/d/1O4usDw9AiTqOcwQNxzep1jDSPoJck8pE/view?usp=sharing)**<br>
+**[Tutorial on Hyperledger Fabric](https://drive.google.com/file/d/1ULnME97_GK1UTwaM2OZZb5aOF0rKRA1Y/view?usp=sharing)**
+<br>
 
 ## Installing
 
